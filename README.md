@@ -1,2 +1,1 @@
-detect.py
-best.pt
+Objectdetection
